@@ -12,6 +12,10 @@
     object-fit: contain;
 }
 
+.footer-content__heading {
+    display: none;
+}
+
 .footer-content__list {
     display: flex;
 }
